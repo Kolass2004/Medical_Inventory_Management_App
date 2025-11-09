@@ -1,3 +1,5 @@
+
+
 # Medical Inventory Management (Salesforce)
 
 A lightweight application built on the Salesforce Platform to track, manage, and audit medical supplies for clinics, hospitals, and pharmacies.
@@ -89,6 +91,6 @@ All project planning, design, and testing documents are located in the `/Documen
 * [**Project Planning Phase**](Documents/Project_Planning_Phase): Timelines, milestones, and high-level strategy.
 * [**Project Design Phase**](Documents/Project_Design_Phase): Data model (ERD), solution design, and technical architecture.
 * [**Performance Testing**](Documents/Perfomance_Testing): Test plans, use cases, and performance benchmarks.
-* [**Video Demo**](Video%20Demo): A complete video walkthrough of the application.
+* [**Video Demo**](VideoDemo): A complete video walkthrough of the application.
 
 
