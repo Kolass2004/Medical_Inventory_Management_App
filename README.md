@@ -84,11 +84,11 @@ This project is designed for deployment using the Salesforce CLI (SFDX).
 
 All project planning, design, and testing documents are located in the `/Documents` folder.
 
-* [**Ideation Phase**](Documents/Ideation_Phase/README.md): Initial brainstorming, mockups, and concepts.
-* [**Requirement Analysis**](Documents/Requirement_Analysis/README.md): User stories, functional, and non-functional requirements.
-* [**Project Planning Phase**](Documents/Project_Planning_Phase/README.md): Timelines, milestones, and high-level strategy.
-* [**Project Design Phase**](Documents/Project_Design_Phase/README.md): Data model (ERD), solution design, and technical architecture.
-* [**Performance Testing**](Documents/Perfomance_Testing/README.md): Test plans, use cases, and performance benchmarks.
-* [**Video Demo**](Video%20Demo/): A complete video walkthrough of the application.
+* [**Ideation Phase**](Documents/Ideation_Phase): Initial brainstorming, mockups, and concepts.
+* [**Requirement Analysis**](Documents/Requirement_Analysis): User stories, functional, and non-functional requirements.
+* [**Project Planning Phase**](Documents/Project_Planning_Phase): Timelines, milestones, and high-level strategy.
+* [**Project Design Phase**](Documents/Project_Design_Phase): Data model (ERD), solution design, and technical architecture.
+* [**Performance Testing**](Documents/Perfomance_Testing): Test plans, use cases, and performance benchmarks.
+* [**Video Demo**](Video%20Demo): A complete video walkthrough of the application.
 
 
